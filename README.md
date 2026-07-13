@@ -18,7 +18,7 @@ A robust Python command-line utility designed to interface with the Jerusalem Mu
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/LeahAbrahams/jerusalem-gis-extractor.git
+   git clone https://github.com/LeahAbrahams/Jerusalem-GIS-API-Data-Extractor.git
    cd jerusalem-gis-extractor
    ```
    
