@@ -16,16 +16,22 @@ A robust Python command-line utility designed to interface with the Jerusalem Mu
 
 ## Installation & Setup
 
-1. Clone the repository:
+1. **Clone the repository:**
+   ```bash
    git clone [https://github.com/your-username/jerusalem-gis-extractor.git](https://github.com/your-username/jerusalem-gis-extractor.git)
    cd jerusalem-gis-extractor
-
+   ```
+   
 2. Install required dependencies:
+   ```bash
    pip install pandas requests
-
+   ```
+   
 3. Run the script:
+   ```bash
    python gis_project.py
-
+   ```
+   
 ## Future Roadmap
 
 * Implement a graphical user interface (GUI) or an interactive web dashboard.
